@@ -1,0 +1,99 @@
+//Slide 1:
+Good Afternoon
+This is team Nameless
+I am Smeet Dedhia
+Our team leader is Pranav Chatur
+
+//Slide 2
+According to the problem statement, to increase the number of daily transacting users of Khatabook, we had proposed the following solutions in Round 1:
+
+Firstly: Improving the App UX
+Secondly: Building better emotional Connect with the users
+Finally: Establishing the Khatabook brand
+
+//Slide 3:
+
+For Round 2, we have prioritised the solution of improving App UX.
+The reasons for this are:
+UX has a high impact to effort ratio. Every dollar you invest in UX would give you 100 back
+
+Another reason is that App UX tends to get undermined. 91% users who find the UX to be unsatisfactory just leave without complaining.
+
+And finally, out of all the solutions proposed, UX enhancements have the most controllable variables. A developer can easily configure the UX. No unforeseen failures can come up, as everything is in the hands of the company.
+
+//Slide 4:
+Check this market research by Zinnov
+
+The diagram shows the level of digitisation of 75Mn Small & Medium Businesses.
+
+Around 50 Mn SMBs only use basic calling and messaging on their phone.
+and 20Mn SMBs know to use online payment platforms for speedy transactions.
+Now, Khatabook app caters to these level 1 and level 2 groups.
+
+Hence the user base of khatabook is very new to digitisation.
+
+Many users wouldn't have been able to become daily transacting users as the app UX would not comfortable.
+So we feel that improving the app UX and making it comfortable to less tech savvy people would increase both, the users and daily transacting users on Khatabook.
+
+As a case study, I would like to talk about Dropbox, which has immense competition from OneDrive and Google Drive. By solely improving its app UX it increased paying users from 8.8 Mn to 11 Mn in an year.
+
+So, the questions isn't why improve UX, but why not improve UX
+
+//PRANAV
+
+//Slide 12:
+We feel that a Customer description box must be added so that the shopkeeper can take down personal notes about customers. This is something a shopkeeper can easily do in a physical book, but not with current UX of khatabook.
+
+//Slide 13:
+Khatabook saves a lot of time and effort for the user.
+Now, to cater to the memorability aspect of UX, we think that the benefits which khatabook provides must be made apparent visually using the UI cards as shown on the slide. Such cards, which visualise time and effort saved would definitely help in user retention.
+
+//Slide 14:
+Now to address the satisfaction part of a good UX, we propose some tools to increase user engagement.
+Firstly, we could have a mascot for khatabook. So the mascot can be a cartoon which is a personified form of khatabook. It is a cartoon associated with khatabook. Like the one shown on the corner.
+
+Now, this mascot could appear throughout the app, in loading screens and transitions to keep the user engaged. 
+The pictures here show how a mascot would make the transaction saved screen' more engaging.
+
+Now coming to animations. We can have intricate animations in the app to express brand personality. They can be used to emphasise key points. Animations are a sign of polish and playfulness.
+
+Sound can also be used in the app to communicate feedback. Hero sounds can be used in the app, which would play when the user completes an important task. So instead of feeling stress, the user feels achievement and content.
+
+//PRANAV
+
+//Slide 17:
+Now brainstorming on the possible failures of our solution.
+First failure could be migration of habituated users as they cant adapt to the new UX.
+A proper launched strategy would address this concern.
+
+Second could be an obsessive focus on UX. Investing in UX can be endless,  but its impact would reach saturation. We should not spend excess time and effort on UX, and work within budget and time constraints.
+ 
+//Slide 18
+
+Now we discuss the launch strategy to rollout UX changes.
+
+Firstly, we have developer testing, in which comprehensive tools are used to find bugs and have Quality Assurance.
+
+Then, we conduct controlled testing, in which we will invite shopkeepers who use the app, and observe them while they use prototypes.
+This gives initial feedback.
+
+Then we can increase the testing groups to alpha and beta testers, who will give extensive feedback and voting. In this stage the app is tested on various smartphones and operating systems.
+
+Now coming to the most important point. Addressing user migration and retention
+
+for this, we will have split testing and retention check. We will make 3 or more groups from this user base who is habituated to the old UX and try out variations of rollout with them.
+
+For one group, we could rollout the features
+
+for the other group, we could rollout the feature with an in app tutorial and 
+
+for the final group, we could just not rollout the features.
+
+after we monitor these groups, we can see which features work the best and then use this for successful rollout.
+ 
+Needless to say, we need active customer support to help users during the transition
+
+After all the  UX changes are rolled out, analytics and feedback from this rollout must be analysed to improve future rollouts.
+
+//PRANAV
+
